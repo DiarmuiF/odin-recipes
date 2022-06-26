@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: antiquewhite;
+}
+
+.banner {
+    background-color: rgb(196, 154, 64);
+    color: white;
+    text-align: center;
+}
+
+li {
+    font-weight: bold;
+    color: green;
+}
+
+.description {
+    background-color: azure;
+    text-align: center;
+    font-weight: 600;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+}
